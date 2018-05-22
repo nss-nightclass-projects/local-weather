@@ -1,0 +1,1 @@
+# Local Weather Part 3: Working with Authentication
