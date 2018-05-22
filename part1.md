@@ -38,15 +38,17 @@ Example API route:
 1. Conditions
 1. Air pressure
 1. Wind speed
-1. An affordance to view the forecast for the current day, the next 3 days, or the next 5 days
-
-**given** the user is viewing the current forecast<br/>
-**when** the user clicks on the link to view the 3 day forecast<br/>
-**then** the current data (see above), and the data for the next 3 days should be displayed
+1. An affordance to view the forecast for the current day, or the next 5 days
 
 **given** the user is viewing the current forecast<br/>
 **when** the user clicks on the link to view the 5 day forecast<br/>
 **then** the current data (see above), and the data for the next 5 days should be displayed
+
+##### BONUS: 
+**given** the user is viewing the current forecast<br/>
+**when** the user clicks on the link to view the 3 day forecast<br/>
+**then** the current data (see above), and the data for the next 3 days should be displayed
+Hint: You might need to look into [MomentJS](https://momentjs.com/) for this.
 
 
 ### Requirements
