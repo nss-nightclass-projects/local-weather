@@ -9,6 +9,10 @@
 ## Requirements
 
 ### User Stories
+**given** a user is new to your application<br/>
+**when** the user visits your application<br/>
+**then** they should be presented with a registration mechanism via email and password.
+
 **given** a user wants to view their weather information<br/>
 **when** the user visits your application<br/>
 **then** they should be presented with an authentication mechanism that allows login via email and password.
@@ -21,8 +25,12 @@
 **when** the user visits your application<br/>
 **then** they should only be able to delete forcasts that they have saved.
 
+**given** a user has something important to do<br/>
+**then** they should be able to logout of your site
+**and** they should be redirected to the login screen
+
 ### Requirements
-Make use of technologies we have used in class (jquery, grunt, browserify, and bootstrap) to build a site that satisfies the six user stories above.
+Make use of technologies we have used in class (jquery, grunt, browserify, and bootstrap) to build a site that satisfies the five user stories above.
 
 You have free reign on styling but we do expect your project to look good (like portfolio worthy).  Use the bootstrap grid system to lay everything out.
 
