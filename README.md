@@ -15,11 +15,11 @@ Create a local-weather repo.
 - Make sure you have the Grunt task running that will build the distribution bundle file.
 
 ## Part 1
-Follow the instructions for [Part 1](./part-1.md).
+Follow the instructions for [Part 1](./part1.md).
 
 ## Part 2
-Follow the instructions for [Part 2](./part-2.md).
+Follow the instructions for [Part 2](./part2.md).
 
 ## Part 3
-Follow the instructions for [Part 3](./part-3.md).
+Follow the instructions for [Part 3](./part3.md).
 
