@@ -2,7 +2,7 @@
 
 ## Prerequisite
 
-> :warning: [Local Weather Part 2](part2.md) exercise
+> :warning: [Local Weather Part 2](./part2.md) exercise
 
 ### You will be working off of your previous iteration of your Local Weather site.
 
